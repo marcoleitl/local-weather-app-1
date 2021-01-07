@@ -3,7 +3,7 @@ import { Component } from '@angular/core'
 @Component({
   selector: 'app-root',
   template: `
-    <mat-toolbar color="primary"> <span>LocalCast Weather</span> </mat-toolbar>
+    <mat-toolbar color="primary"> <span>LocalCast Weather 2</span> </mat-toolbar>
     <div fxLayoutAlign="center">
       <div class="mat-caption vertical-margin">Your city, your forecast, right now!</div>
     </div>
